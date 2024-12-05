@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\taxascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\taxascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\models\\taxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\models\\taxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\controllers\\taxascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\controllers\\taxascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\services\\taxasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\services\\taxasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\dto\\taxadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\dto\\taxadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\controllers\\taxascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\controllers\\taxascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\taxascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\taxascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxasContext.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\TaxasContext.cs",
+              "RelativeDocumentMoniker": "Taxas\\TaxasContext.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\TaxasContext.cs",
+              "RelativeToolTip": "Taxas\\TaxasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T02:26:33.78Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -48,87 +49,35 @@
               "RelativeDocumentMoniker": "Taxas\\Program.cs",
               "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Program.cs",
               "RelativeToolTip": "Taxas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:14:07.061Z",
+              "WhenOpened": "2024-12-05T02:26:12.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\appsettings.json",
-              "RelativeDocumentMoniker": "Taxas\\appsettings.json",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\appsettings.json",
-              "RelativeToolTip": "Taxas\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-03T01:11:59.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaxasContext.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\TaxasContext.cs",
-              "RelativeDocumentMoniker": "Taxas\\TaxasContext.cs",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\TaxasContext.cs",
-              "RelativeToolTip": "Taxas\\TaxasContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:09:26.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Taxa.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Models\\Taxa.cs",
-              "RelativeDocumentMoniker": "Taxas\\Models\\Taxa.cs",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Models\\Taxa.cs",
-              "RelativeToolTip": "Taxas\\Models\\Taxa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:02:39.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "TaxasService.cs",
               "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Services\\TaxasService.cs",
               "RelativeDocumentMoniker": "Taxas\\Services\\TaxasService.cs",
               "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Services\\TaxasService.cs",
               "RelativeToolTip": "Taxas\\Services\\TaxasService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:59:25.299Z",
+              "WhenOpened": "2024-12-05T02:26:07.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaxaDto.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Dto\\TaxaDto.cs",
-              "RelativeDocumentMoniker": "Taxas\\Dto\\TaxaDto.cs",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Dto\\TaxaDto.cs",
-              "RelativeToolTip": "Taxas\\Dto\\TaxaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:56:30.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "TaxasController.cs",
               "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Controllers\\TaxasController.cs",
               "RelativeDocumentMoniker": "Taxas\\Controllers\\TaxasController.cs",
               "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Controllers\\TaxasController.cs",
               "RelativeToolTip": "Taxas\\Controllers\\TaxasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:52:53.748Z",
+              "WhenOpened": "2024-12-05T02:26:02.635Z",
               "EditorCaption": ""
             }
           ]

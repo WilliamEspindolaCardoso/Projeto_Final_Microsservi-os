@@ -1,4 +1,5 @@
-﻿using Residencias.Models;
+﻿using System.Text.Json;
+using Residencias.Models;
 
 namespace Residencias.Services
 {

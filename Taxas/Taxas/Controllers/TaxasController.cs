@@ -11,10 +11,10 @@ namespace Taxas.Controllers
         private readonly TaxasContext _context;
         private readonly HttpClient _httpClient;
 
-        public TaxasController(TaxasContext context, IHttpClientFactory httpClientFactory)
+        public TaxasController(TaxasContext context)
         {
             _context = context;
-            _httpClient = httpClientFactory.CreateClient();
+            _httpClient = new HttpClient();
         }
 
         // Cadastrar uma nova taxa

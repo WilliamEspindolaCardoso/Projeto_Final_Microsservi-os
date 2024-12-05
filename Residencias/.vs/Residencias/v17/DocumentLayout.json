@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Residencias\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A12E0C-894D-49BE-A94A-193687F80C6F}|Residencias\\Residencias.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\residencias\\residencias\\residencias.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C6A12E0C-894D-49BE-A94A-193687F80C6F}|Residencias\\Residencias.csproj|solutionrelative:residencias\\residencias.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A12E0C-894D-49BE-A94A-193687F80C6F}|Residencias\\Residencias.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\residencias\\residencias\\controllers\\residenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A12E0C-894D-49BE-A94A-193687F80C6F}|Residencias\\Residencias.csproj|solutionrelative:residencias\\controllers\\residenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResidenciasController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Residencias\\Residencias\\Controllers\\ResidenciasController.cs",
+              "RelativeDocumentMoniker": "Residencias\\Controllers\\ResidenciasController.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Residencias\\Residencias\\Controllers\\ResidenciasController.cs",
+              "RelativeToolTip": "Residencias\\Controllers\\ResidenciasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:57:58.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Residencias.http",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Residencias\\Residencias\\Residencias.http",
+              "RelativeDocumentMoniker": "Residencias\\Residencias.http",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Residencias\\Residencias\\Residencias.http",
+              "RelativeToolTip": "Residencias\\Residencias.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-05T03:57:49.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
