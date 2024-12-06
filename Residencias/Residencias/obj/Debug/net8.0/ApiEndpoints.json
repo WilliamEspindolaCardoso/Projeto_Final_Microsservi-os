@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Residencias.Controllers.ResidenciasController",
+    "Method": "CreateResidencia",
+    "RelativePath": "api/Residencias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "residencia",
+        "Type": "Residencias.Models.Residencia",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Residencias.Controllers.ResidenciasController",
+    "Method": "GetResidencia",
+    "RelativePath": "api/Residencias/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

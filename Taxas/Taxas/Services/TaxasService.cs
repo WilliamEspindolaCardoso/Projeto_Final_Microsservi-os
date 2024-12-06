@@ -24,7 +24,7 @@ namespace Taxas.Services
         public async Task<Taxa> CreateTaxa(Taxa taxa)
         {
             // Valida se a residência está ativa
-            var response = await _httpClient.GetAsync($"http://localhost:5001/api/Residencias/{taxa.ResidenciaId}");
+            var response = await _httpClient.GetAsync($"https://localhost:7160/api/Residencias/{taxa.ResidenciaId}");
             if (!response.IsSuccessStatusCode)
                 throw new Exception("Residência não encontrada ou inativa.");
 
@@ -41,7 +41,7 @@ namespace Taxas.Services
 
             // Atualiza a dívida do morador
             var updateResponse = await _httpClient.PutAsJsonAsync(
-                $"http://localhost:5002/api/Moradores/{taxa.ResidenciaId}/divida",
+                $"https://localhost:7107/api/Moradores/{taxa.ResidenciaId}/divida",
                 taxa.Valor);
 
             if (!updateResponse.IsSuccessStatusCode)

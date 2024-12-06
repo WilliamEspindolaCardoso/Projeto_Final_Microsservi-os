@@ -21,7 +21,7 @@ namespace Moradores.Controllers
         {
             var morador = _context.Moradores.Find(id);
             if (morador == null)
-                return NotFound();
+                return NotFound("Morador Não Encontrado");
             return Ok(morador);
         }
 

@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Taxas.Controllers.TaxasController",
+    "Method": "CreateTaxa",
+    "RelativePath": "api/Taxas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taxa",
+        "Type": "Taxas.Models.Taxa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taxas.Controllers.TaxasController",
+    "Method": "GetTaxa",
+    "RelativePath": "api/Taxas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

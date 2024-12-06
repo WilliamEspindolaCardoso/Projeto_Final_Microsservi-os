@@ -12,8 +12,8 @@ b) Usuários:
 - Administradores do condomínio
 
 c) Requisitos Funcionais:
-- Cadastrar, buscar e atualizar residências.
-- Cadastrar, buscar e atualizar moradores.
+- Cadastrar e buscar residências.
+- Cadastrar, buscar e atualizar dívida dos moradores.
 - Cadastrar taxas de condomínio e vincular ao morador correspondente.
 - Validar se a residência está ativa ao cadastrar uma taxa.
 - Atualizar a dívida do morador ao registrar uma taxa.

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4FBD374-DF06-4349-9852-40B17245F5B5}|Moradores\\Moradores.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\moradores\\moradores\\services\\moradoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4FBD374-DF06-4349-9852-40B17245F5B5}|Moradores\\Moradores.csproj|solutionrelative:moradores\\services\\moradoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4FBD374-DF06-4349-9852-40B17245F5B5}|Moradores\\Moradores.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\moradores\\moradores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4FBD374-DF06-4349-9852-40B17245F5B5}|Moradores\\Moradores.csproj|solutionrelative:moradores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4FBD374-DF06-4349-9852-40B17245F5B5}|Moradores\\Moradores.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\moradores\\moradores\\moradores.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B4FBD374-DF06-4349-9852-40B17245F5B5}|Moradores\\Moradores.csproj|solutionrelative:moradores\\moradores.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4FBD374-DF06-4349-9852-40B17245F5B5}|Moradores\\Moradores.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\moradores\\moradores\\moradorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4FBD374-DF06-4349-9852-40B17245F5B5}|Moradores\\Moradores.csproj|solutionrelative:moradores\\moradorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Migrations\\20241205223705_primeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Moradores\\Migrations\\20241205223705_primeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MoradoresContext.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\MoradoresContext.cs",
-              "RelativeDocumentMoniker": "Moradores\\MoradoresContext.cs",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\MoradoresContext.cs",
-              "RelativeToolTip": "Moradores\\MoradoresContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T03:59:49.311Z",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Moradores\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Moradores\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T00:31:19.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Moradores.http",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Moradores.http",
-              "RelativeDocumentMoniker": "Moradores\\Moradores.http",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Moradores.http",
-              "RelativeToolTip": "Moradores\\Moradores.http",
+              "Title": "20241205223705_primeira.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Migrations\\20241205223705_primeira.cs",
+              "RelativeDocumentMoniker": "Moradores\\Migrations\\20241205223705_primeira.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Migrations\\20241205223705_primeira.cs",
+              "RelativeToolTip": "Moradores\\Migrations\\20241205223705_primeira.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-05T03:59:46.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MoradoresService.cs",
-              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Services\\MoradoresService.cs",
-              "RelativeDocumentMoniker": "Moradores\\Services\\MoradoresService.cs",
-              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Moradores\\Moradores\\Services\\MoradoresService.cs",
-              "RelativeToolTip": "Moradores\\Services\\MoradoresService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T03:59:42.94Z",
+              "WhenOpened": "2024-12-05T22:37:06.138Z",
               "EditorCaption": ""
             }
           ]

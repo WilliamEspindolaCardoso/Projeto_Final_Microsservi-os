@@ -21,7 +21,7 @@ namespace Residencias.Controllers
         {
             var residencia = _context.Residencias.Find(id);
             if (residencia == null)
-                return NotFound();
+                return NotFound("Residência Não Encontrada");
             return Ok(residencia);
         }
 

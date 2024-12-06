@@ -22,7 +22,7 @@ namespace Taxas.Controllers
         public async Task<IActionResult> CreateTaxa([FromBody] Taxa taxa)
         {
             // Valida se a residência está ativa
-            var response = await _httpClient.GetAsync($"http://localhost:5001/api/Residencias/{taxa.ResidenciaId}");
+            var response = await _httpClient.GetAsync($"https://localhost:7160/api/Residencias/{taxa.ResidenciaId}");
             if (!response.IsSuccessStatusCode)
                 return BadRequest("Residência não encontrada ou inativa.");
 
@@ -38,7 +38,7 @@ namespace Taxas.Controllers
             _context.SaveChanges();
 
             // Atualiza a dívida do morador
-            await _httpClient.PutAsJsonAsync($"http://localhost:5002/api/Moradores/{residencia.Id}/divida", taxa.Valor);
+            await _httpClient.PutAsJsonAsync($"https://localhost:7107/api/Moradores/{residencia.Id}/divida", taxa.Valor);
 
             return CreatedAtAction(nameof(GetTaxa), new { id = taxa.Id }, taxa);
         }
@@ -49,7 +49,7 @@ namespace Taxas.Controllers
         {
             var taxa = _context.Taxas.Find(id);
             if (taxa == null)
-                return NotFound();
+                return NotFound("ID não encontrado");
             return Ok(taxa);
         }
     }

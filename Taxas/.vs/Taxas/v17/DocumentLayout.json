@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\controllers\\taxascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\controllers\\taxascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|c:\\users\\willi\\onedrive\\\u00E1rea de trabalho\\unisatc\\4\u00AA fase - 2024\\arquitetura de software\\projetocondominio\\taxas\\taxas\\services\\taxasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B72CE42-3604-4907-B950-D7474EB261D1}|Taxas\\Taxas.csproj|solutionrelative:taxas\\services\\taxasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Migrations\\20241205233551_primeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taxas\\Migrations\\20241205233551_primeira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxasService.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Services\\TaxasService.cs",
+              "RelativeDocumentMoniker": "Taxas\\Services\\TaxasService.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Services\\TaxasService.cs",
+              "RelativeToolTip": "Taxas\\Services\\TaxasService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:36:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaxasController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Controllers\\TaxasController.cs",
+              "RelativeDocumentMoniker": "Taxas\\Controllers\\TaxasController.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Controllers\\TaxasController.cs",
+              "RelativeToolTip": "Taxas\\Controllers\\TaxasController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:32:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241205233551_primeira.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Migrations\\20241205233551_primeira.cs",
+              "RelativeDocumentMoniker": "Taxas\\Migrations\\20241205233551_primeira.cs",
+              "ToolTip": "C:\\Users\\willi\\OneDrive\\\u00C1rea de Trabalho\\UniSATC\\4\u00AA Fase - 2024\\Arquitetura de Software\\ProjetoCondominio\\Taxas\\Taxas\\Migrations\\20241205233551_primeira.cs",
+              "RelativeToolTip": "Taxas\\Migrations\\20241205233551_primeira.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:35:51.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

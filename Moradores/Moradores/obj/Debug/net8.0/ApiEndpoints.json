@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "Moradores.Controllers.MoradoresController",
+    "Method": "CreateMorador",
+    "RelativePath": "api/Moradores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "morador",
+        "Type": "Moradores.Models.Morador",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moradores.Controllers.MoradoresController",
+    "Method": "GetMorador",
+    "RelativePath": "api/Moradores/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moradores.Controllers.MoradoresController",
+    "Method": "AtualizarDivida",
+    "RelativePath": "api/Moradores/{id}/divida",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "novaDivida",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

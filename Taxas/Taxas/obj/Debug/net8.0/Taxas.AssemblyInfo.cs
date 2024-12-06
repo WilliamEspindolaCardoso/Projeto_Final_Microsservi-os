@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taxas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdf2a2dfc6868b8d754ba8b725260bb41a108768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8545aa2c46027491ce5ca3c6a7f4d00b1d73798b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taxas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taxas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
